@@ -1,0 +1,86 @@
+html{
+    background-color: orange;
+}
+
+body{
+    margin-top: 0px;
+}
+
+h1{
+    margin-left: 10px;
+}
+.menu_wrapper{
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: brown;
+    color:rgb(16, 199, 47);
+    white-space: nowrap;
+    width: 100%px;
+    border:1px solid black;
+    left:0;
+    right:0;
+    position:fixed;
+    
+}
+
+a{
+    color:rgb(16, 199, 47);
+    text-decoration: none;
+    font-size:x-large;
+    margin: 0 5px;
+}
+
+main{
+    color: rgb(16, 199, 47);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    min-height: 100vh;
+    background-color: yellow; 
+    margin-left: 30%;
+    margin-right: 30%;
+    border:1px solid black;
+    box-shadow: 0 0 12px -2px rgb(77, 7, 190);
+   
+
+}
+
+img{
+    float:right; 
+    box-shadow:  8 6px -2px rgb(77, 7, 190);
+    margin-top: 110px;
+    margin-right: 10px;
+}
+
+h2{
+    margin-top:110px;
+    padding-left: 20px
+}
+
+p{  
+    margin-top:20px;
+    padding-left: 20px;
+}
+
+footer{
+    background-color: brown;
+    width: 100%; 
+    height: 85px;
+    left:0;
+    right:0;
+    position: absolute;
+    
+}
+
+#linkedIn_image{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    
+    
+}
+
