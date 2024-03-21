@@ -18,7 +18,6 @@ h1{
     color:rgb(16, 199, 47);
     white-space: nowrap;
     width: 100%px;
-    border:1px solid black;
     left:0;
     right:0;
     position:fixed;
@@ -83,4 +82,14 @@ footer{
     
     
 }
+
+.software{
+    float: right;
+    margin: 0 24px 24px 24px;
+    margin-top: 0px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+}
+
 
