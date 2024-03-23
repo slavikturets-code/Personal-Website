@@ -12,7 +12,6 @@ h1{
 .menu_wrapper{
     justify-content: space-between;
     display: flex;
-    justify-content: space-between;
     align-items: center;
     background-color: brown;
     color:rgb(16, 199, 47);
@@ -41,8 +40,6 @@ main{
     margin-right: 30%;
     border:1px solid black;
     box-shadow: 0 0 12px -2px rgb(77, 7, 190);
-   
-
 }
 
 img{
@@ -83,13 +80,39 @@ footer{
     
 }
 
-.software{
-    float: right;
-    margin: 0 24px 24px 24px;
-    margin-top: 0px;
-    margin-right: 24px;
-    margin-bottom: 24px;
-    margin-left: 24px;
+section{
+ display: flex;
+ align-items: center;
+ /*justify-content: space-between;*/
+ border-top:3px solid rgba(124, 124, 197, 0.678);
+ /*border:1px solid black;*/
+ margin-left: 26px;
+ width:701px;
+ height:238px;
+ 
 }
+
+.section_text{
+    margin-bottom: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.section_img{
+    float: right;
+    margin-bottom: 90px;
+    margin-top: 77px;
+    margin-right: 0px;
+    /*margin: 0 24px 24px 24px;*/ 
+}
+
+.swimming{
+    height: 100px;
+}
+
+.chess{
+    height: 167px;
+}
+
 
 
