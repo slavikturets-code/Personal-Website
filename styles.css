@@ -114,5 +114,32 @@ section{
     height: 167px;
 }
 
+.companies_section{
+  display: block;
+  height: 165px;
+}
+
+.companies_text{
+    font-size: 15px;
+}
+
+.techskills_section{
+    display: block;
+    height: 274px;
+}
+
+.techskills_text{
+    font-size: 15px;
+}
+
+.personal_project_section{
+    display: block;
+ 
+}
+
+.personal_project_text{
+    font-size: 15px;
+}
+
 
 
